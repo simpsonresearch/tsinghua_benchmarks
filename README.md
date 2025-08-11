@@ -2,6 +2,10 @@
 
 I wanted to see how the new Tsinghua shortest path algorithm performs against Dijkstra's & Bellman-Ford algorithms.
 
+## Notes
+
+- Yes, this repo used AI (specifically Claude Sonnet-4), so go easy on me if there's anything wrong. This was just meant to be a fun test.
+
 ## Running the App
 
 To run the app (python3 required),
